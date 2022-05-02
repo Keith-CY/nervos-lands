@@ -39,7 +39,7 @@ cd game
 npx serve
 ```
 
-IMPORTANT: The source code of the gameplay part could be provided for hackathon judges by request.
+**IMPORTANT: The source code of the gameplay part could be provided for hackathon judges by request.**
 
 # About
 
@@ -58,7 +58,10 @@ To play the game player creates a village. Each village has its own smart-contra
 
 ### TODO list (general steps):
 
+0. Game tokenomics
 1. Multiplayer
 2. NFT minting (areas, characters, building and etc.)
 3. In game marketplace
-4. And much more...
+4. Mobile platform support
+5. Desktop platform support
+6. And much more...
