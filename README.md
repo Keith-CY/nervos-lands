@@ -39,7 +39,7 @@ cd game
 npx serve
 ```
 
-**IMPORTANT: The source code of the gameplay part could be provided for hackathon judges by request.**
+**_IMPORTANT: The source code of the gameplay part could be provided for hackathon judges by request._**
 
 # About
 
